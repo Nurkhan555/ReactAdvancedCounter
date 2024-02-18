@@ -1,0 +1,14 @@
+.conteiner{
+    border:2px solid deepskyblue;
+    border-radius:15px;
+    padding: 6px;
+}
+
+.counterWrapper{
+    border:2px solid deepskyblue;
+    border-radius:15px;
+    flex-direction: column;
+    margin:8px;
+    padding:10px;
+    display:flex;
+}

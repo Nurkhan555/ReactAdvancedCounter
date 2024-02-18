@@ -1,0 +1,39 @@
+.conteiner{
+    border:2px solid deepskyblue;
+    border-radius:15px;
+    padding: 6px;
+    display: flex ;
+    flex-direction: column;
+    justify-content: space-between;
+}
+
+.buttonConteiner{
+    border:2px solid deepskyblue;
+    width :200px;
+    border-radius:15px;
+    margin:8px;
+    padding:10px;
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+}
+
+.countWrapper{
+    border:2px solid deepskyblue;
+    width :200px;
+    border-radius:15px;
+    margin:8px;
+    padding:10px;
+}
+
+.maxCount{
+    color:red;
+    font-size: 28px;
+}
+
+.count{
+    font-size: 35px;
+}
+
+.inc{
+}
